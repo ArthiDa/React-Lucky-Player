@@ -1,0 +1,24 @@
+.pick-player{
+    display: flex;
+    align-items: center;
+    margin: 5px 20px;
+}
+.short-details{
+    display: flex;
+    align-items: center;
+}
+.short-player-name{
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.player-small-img{
+    width: 20%;
+    border-radius: 50px;
+}
+.cross{
+    color: red;
+}
+.cross:hover{
+    cursor: pointer;
+}

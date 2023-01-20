@@ -1,0 +1,154 @@
+[
+    {
+        "id" : 1,
+        "Name" : "Litton Kumer Das",
+        "Role" : "Wicketkeeper Batter",
+        "Age" : "28y 99d",
+        "Born" : "October 13, 1994, Dinajpur",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319727.png"
+    },
+    {
+        "id" : 2,
+        "Name" : "Afif Hossain Dhrubo",
+        "Role" : "Allrounder",
+        "Age" : "23y 120d",
+        "Born" : "September 22, 1999, Khulna",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323100/323159.png"
+    },
+    {
+        "id" : 3,
+        "Name" : "Mohammad Mahmudullah",
+        "Role" : "Allrounder",
+        "Age" : "36y 350d",
+        "Born" : "February 04, 1986, Mymensingh",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316571.png"
+    },
+    {
+        "id" : 4,
+        "Name" : "Mohammad Mushfiqur Rahim",
+        "Role" : "Wicketkeeper Batter",
+        "Age" : "35y 256d",
+        "Born" : "May 09, 1987, Bogra",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316578.png"
+    },
+    {
+        "id" : 5,
+        "Name" : "Shakib Al Hasan",
+        "Role" : "Allrounder",
+        "Age" : "35y 302d",
+        "Born" : "March 24, 1987, Magura, Jessore",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316581.png"
+    },
+    {
+        "id" : 6,
+        "Name" : "Mustafizur Rahman",
+        "Role" : "Bowler",
+        "Age" : "27y 136d",
+        "Born" : "September 06, 1995, Satkhira",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319734.png"
+    },
+    {
+        "id" : 7,
+        "Name" : "Mehidy Hasan Miraz",
+        "Role" : "Allrounder",
+        "Age" : "25y 87d",
+        "Born" : "October 25, 1997, Khulna",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319728.png"
+    },
+    {
+        "id" : 8,
+        "Name" : "Tamim Iqbal Khan",
+        "Role" : "Batter",
+        "Age" : "33y 306d",
+        "Born" : "March 20, 1989, Chittagong",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316583.png"
+    },
+    {
+        "id" : 9,
+        "Name" : "Taskin Ahmed",
+        "Role" : "Bowler",
+        "Age" : "27y 292d",
+        "Born" : "April 03, 1995, Dhaka",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316700/316703.png"
+    },
+    {
+        "id" : 10,
+        "Name" : "Hasan Mahmud",
+        "Role" : "Bowler",
+        "Age" : "23y 100d",
+        "Born" : "October 12, 1999, Laxmipur",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323100/323172.png"
+    },
+    {
+        "id" : 11,
+        "Name" : "Yasir Ali Chowdhury",
+        "Role" : "Batter",
+        "Age" : "26y 320d",
+        "Born" : "March 06, 1996, Chittagong",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/179500/179555.1.jpg"
+    },
+    {
+        "id" : 12,
+        "Name" : "Taijul Islam",
+        "Role" : "Bowler",
+        "Age" : "30y 347d",
+        "Born" : "February 07, 1992, Natore",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316675.png"
+    },
+    {
+        "id" : 13,
+        "Name" : "Mohammad Shoriful Islam",
+        "Role" : "Bowler",
+        "Age" : "21y 231d",
+        "Born" : "June 03, 2001, Panchagor",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323100/323175.png"
+    },
+    {
+        "id" : 14,
+        "Name" : "Quazi Nurul Hasan",
+        "Role" : "Wicketkeeper Batter",
+        "Age" : "29y 60d",
+        "Born" : "November 21, 1993, Khulna",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323100/323162.png"
+    },
+    {
+        "id" : 15,
+        "Name" : "Nasum Ahmed",
+        "Role" : "Bowler'",
+        "Age" : "28y 46d",
+        "Born" : "December 05, 1994",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323100/323176.png"
+    },
+    {
+        "id" : 16,
+        "Name" : "Najmul Hossain Shanto",
+        "Role" : "Batter",
+        "Age" : "24y 148d",
+        "Born" : "August 25, 1998, Rajshahi",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/323100/323155.png"
+    },
+    {
+        "id" : 17,
+        "Name" : "Mosaddek Hossain Saikat",
+        "Role" : "Allrounder",
+        "Age" : "27y 41d",
+        "Born" : "December 10, 1995, Mymensingh",
+        "Image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319733.png"
+    },
+    {
+        "id" : 18,
+        "Name" : "Ebadot Hossain Chowdhury",
+        "Role" : "Bowler",
+        "Age" : "29y 13d",
+        "Born" : "January 07, 1994, Moulvi Bazar, Sylhet",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/345000/345078.png"
+    },
+    {
+        "id" : 19,
+        "Name" : "Mohammad Anamul Haque Bijoy",
+        "Role" : "Wicketkeeper Batter",
+        "Age" : "30y 35d",
+        "Born" : "December 16, 1992, Kushtia, Khulna",
+        "Image" : "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316669.png"
+    }
+]

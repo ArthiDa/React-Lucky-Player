@@ -1,0 +1,38 @@
+.single-player{
+    border: 1px solid gray;
+    border-radius: 10px;
+    box-shadow: 5px 5px gray;
+    position: relative;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.single-player-img{
+    width: 200px;
+    margin: 5px 30px;
+    border-radius: 50px;
+
+}
+.single-player-details{
+    padding: 10px;
+    margin-bottom: 35px;
+}
+.player-name{
+    font-weight: 700;
+    font-size: 16px;
+}
+.pick-btn{
+    border: none;
+    width: 100%;
+    background-color: cornsilk;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 0;
+}
+.pick-btn p{
+    font-size: 16px;
+    font-weight: 700;
+}
+.pick-btn:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
